@@ -3,9 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssjabatron&label=Profile%20views&color=0e75b6&style=flat" alt="ssjabatron" /> </p>
 
+- 🔭 I’m currently working on [Find The Dragon Orbs](https://github.com/tarun-medida/FindTheDragonOrbs)
+
 - 🌱 I’m currently learning **Game Design and Development**
 
+- 📝 I regularly write articles on [https://abatronsdome.blogspot.com](https://abatronsdome.blogspot.com)
+
+- 💬 Ask me about **C++, Unity C#, Unreal Engine Blueprints, Erlang**
+
 - 📫 How to reach me **a.abhay96@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/SSJAbatron/Resume/blob/main/AbhaySoftwareDeveloper_27th_Jan_2024.pdf](https://github.com/SSJAbatron/Resume/blob/main/AbhaySoftwareDeveloper_27th_Jan_2024.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
