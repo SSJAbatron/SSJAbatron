@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my game projects are available at [https://ssjabatron.itch.io](https://ssjabatron.itch.io)
 
-- 📝 I regularly write articles on [https://abatronsdome.blogspot.com](https://abatronsdome.blogspot.com)
+- 📝 I regularly write articles and blogs on [https://abatronsdome.blogspot.com](https://abatronsdome.blogspot.com)
 
 - 💬 Ask me about **C++, Unity C#, Unreal Engine Blueprints, Erlang**
 
