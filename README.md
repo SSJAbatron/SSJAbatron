@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Ashok Kumar</h1>
-<h3 align="center">A passionate Programmer working as a Backend Developer</h3>
+<h3 align="center">A passionate Programmer working as a Backend Developer. Always curious and ready to learn new concepts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssjabatron&label=Profile%20views&color=0e75b6&style=flat" alt="ssjabatron" /> </p>
 
@@ -12,6 +12,8 @@
 - 📝 I regularly write articles and blogs on [https://abatronsdome.blogspot.com](https://abatronsdome.blogspot.com)
 
 - 💬 Ask me about **C++, Unity C#, Unreal Engine Blueprints, Erlang**
+
+- 🔬 Exploring **Rust**
 
 - 📫 How to reach me **a.abhay96@gmail.com**
 
