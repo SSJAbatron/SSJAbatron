@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssjabatron&label=Profile%20views&color=0e75b6&style=flat" alt="ssjabatron" /> </p>
 
-- 🔭 I’m currently working on [Find The Dragon Orbs](https://github.com/tarun-medida/FindTheDragonOrbs)
+- 🔭 I’m currently working on a game project in a team of 6 [Find The Dragon Orbs](https://github.com/tarun-medida/FindTheDragonOrbs)
 
 - 🌱 I’m currently learning **Game Design and Development**
 
