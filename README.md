@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **a.abhay96@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SSJAbatron/Resume/blob/main/AbhaySoftwareDeveloper_27th_Jan_2024.pdf](https://github.com/SSJAbatron/Resume/blob/main/AbhaySoftwareDeveloper_19th_Apr_2024.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/SSJAbatron/Resume/blob/main/AbhaySoftwareDeveloper_19th_Apr_2024.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
