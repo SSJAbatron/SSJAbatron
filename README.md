@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles and blogs on [https://abatronsdome.blogspot.com](https://abatronsdome.blogspot.com)
 
-- 💼 Portfolio [https://abhay-ashok-kumar.webflow.io](abhay-ashok-kumar) 
+- 💼 Portfolio [abhay-ashok-kumar](https://abhay-ashok-kumar.webflow.io) 
 
 - 💬 Ask me about **C++, Unity C#, Unreal Engine Blueprints, Erlang**
 
